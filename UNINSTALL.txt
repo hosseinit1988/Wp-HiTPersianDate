@@ -1,0 +1,1 @@
+To remove plugin data, deactivate and delete the plugin from WordPress admin.

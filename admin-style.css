@@ -1,0 +1,44 @@
+.wp-jalali-container {
+    max-width: 900px;
+    margin-top: 20px;
+    font-family: Tahoma;
+}
+.wp-jalali-card {
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    transition: all 0.2s ease-in-out;
+}
+.wp-jalali-card:hover {
+    box-shadow: 0 6px 15px rgba(0,0,0,0.08);
+}
+.wp-jalali-card h1 {
+    margin-top: 0;
+    font-size: 18px;
+    border-bottom: 1px solid #f0f0f0;
+    padding-bottom: 8px;
+    margin-bottom: 15px;
+    color: #2271b1;
+}
+.wp-jalali-card h2 {
+    margin-top: 0;
+    font-size: 18px;
+    border-bottom: 1px solid #f0f0f0;
+    padding-bottom: 8px;
+    margin-bottom: 15px;
+    color: #2271b1;
+}
+.wp-jalali-select,
+.wp-jalali-input {
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    min-width: 250px;
+}
+.wp-jalali-radios label {
+    margin-right: 20px;
+    font-size: 14px;
+}
