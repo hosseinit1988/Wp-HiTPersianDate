@@ -44,7 +44,7 @@ fonts/iransens.woff2
 ## 🖼 تصاویر محیط افزونه
 
 **صفحه تنظیمات گرافیکی:**
-
+<div align="center"><img src="settings2.png"></div><br />
 <div align="center"><img src="settings.png"></div>
 
 **نمایش سایت با فونت دلخواه و تاریخ شمسی:**
