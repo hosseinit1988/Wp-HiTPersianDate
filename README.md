@@ -50,7 +50,7 @@ fonts/iransens.woff2
 
 **نمایش سایت با فونت دلخواه و تاریخ شمسی:**
 
-![Frontend Screenshot](https://via.placeholder.com/700x400?text=Frontend+Screenshot)
+<div align="center"><img src="home.png"></div>
 
 ---
 
