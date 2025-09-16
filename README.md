@@ -46,7 +46,7 @@ fonts/iransens.woff2
 
 **صفحه تنظیمات گرافیکی:**
 
-![Settings Page](https://via.placeholder.com/700x400?text=Settings+Page+Screenshot)
+<div align="center"><img src="settings.png"></div>
 
 **نمایش سایت با فونت دلخواه و تاریخ شمسی:**
 
