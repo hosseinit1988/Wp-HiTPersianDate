@@ -1,4 +1,4 @@
-<div align="center"># WP HiT Persian Date</div><br />
+# WP HiT Persian Date
 <div align="center"><img src="screenshot.png"></div><br />
 
 
