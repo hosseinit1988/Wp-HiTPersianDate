@@ -1,4 +1,5 @@
-# WP HiT Persian Date
+<div align="center"># WP HiT Persian Date</div><br />
+<div align="center"><img src="screenshot.png"></div><br />
 
 
 **افزونه حرفه‌ای وردپرس برای تبدیل تاریخ‌ها به شمسی، تغییر فونت سایت و پنل مدیریت، با تنظیمات گرافیکی پیشرفته.**
