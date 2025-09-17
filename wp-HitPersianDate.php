@@ -9,7 +9,7 @@
 
 if (!defined('ABSPATH')) exit;
 
-class WP_Jalali_Vazir_Pro_Final3 {
+class WP_HiT_PersianDate {
     private $fonts = ['vazir'=>'وزیر','yekan'=>'یکان','shabnam'=>'شبنم','dana'=>'دانا','iransens'=>'ایران‌سنس'];
 
     public function __construct() {
@@ -163,4 +163,4 @@ class WP_Jalali_Vazir_Pro_Final3 {
     }
 }
 
-new WP_Jalali_Vazir_Pro_Final3();
+new WP_HiT_PersianDate();
